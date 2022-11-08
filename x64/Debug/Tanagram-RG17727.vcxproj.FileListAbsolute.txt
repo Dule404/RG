@@ -1,0 +1,2 @@
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\x64\Debug\Tanagram-RG17727.exe
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\x64\Debug\Tanagram-RG17727.pdb

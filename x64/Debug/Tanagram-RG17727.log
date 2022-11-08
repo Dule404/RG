@@ -1,0 +1,9 @@
+﻿  Tanagram-RG17727View.cpp
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(67,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(67,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(87,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(87,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(179,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(205,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\Tanagram-RG17727View.cpp(214,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tanagram-RG17727.vcxproj -> C:\Users\FUJITSU\Documents\GitHub\Racunarska_Grafka\lab01\x64\Debug\Tanagram-RG17727.exe
